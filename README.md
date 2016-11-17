@@ -16,6 +16,6 @@ Install the npm packages described in the `package.json` and verify that it work
 npm install
 npm start
 ```
-And thats it... You can now see the preview of the app in the browser with basic router settings for angular 2!
+And thats it... You can now see the preview of the app in the browser with basic router settings of angular 2!
 
 Good Luck...

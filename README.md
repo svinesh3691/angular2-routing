@@ -1,8 +1,12 @@
 # Angular2-routing
 
-An angular 2 router quick start application
+This is an angular 2 router quick start application with basic routing settings and this is made based on the tutorial in the official site of angular 2 [https://angular.io/]
 
-## Steps to create a new project
+This is the corresponding tutorial link :
+https://angular.io/docs/ts/latest/tutorial/toh-pt5.html
+
+
+## Steps to use
 
 Clone this repo into new project folder (e.g., `angular2-app`).
 ```bash

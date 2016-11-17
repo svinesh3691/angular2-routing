@@ -2,9 +2,9 @@
   "name": "angular2-routing",
   "version": "1.0.0",
   "author": "S Vinesh [svinesh3691]",
-  "repository" : { 
-    "type" : "git", 
-    "url" : "https://github.com/svinesh3691/angular2-routing.git"
+  "repository": { 
+    "type": "git", 
+    "url": "https://github.com/svinesh3691/angular2-routing.git"
   }
   "scripts": {
     "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
@@ -12,7 +12,7 @@
     "tsc": "tsc",
     "tsc:w": "tsc -w"
   },
-  "keywords": ['angular2','angular2-routing','angular2-quickstart','svinesh3691'],
+  "keywords": ["angular2","angular2-routing","angular2-quickstart","svinesh3691"],
   "licenses": [
     {
       "type": "MIT",

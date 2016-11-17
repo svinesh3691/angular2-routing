@@ -10,7 +10,7 @@ https://angular.io/docs/ts/latest/tutorial/toh-pt5.html
 
 Clone this repo into new project folder (e.g., `angular2-app`).
 ```bash
-git clone  https://github.com/svinesh3691/angular2-routing  angular2-app
+git clone  https://github.com/svinesh3691/angular2-routing.git  angular2-app
 cd angular2-app
 ```
 ## Install npm packages

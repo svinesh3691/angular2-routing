@@ -1,4 +1,4 @@
-# Angular2-routing
+# Angular2-Routing
 
 This is an angular 2 router quick start application with basic routing settings and this is made based on the tutorial in the official site of angular 2 [https://angular.io/]
 
